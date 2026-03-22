@@ -13,9 +13,9 @@ Fully built using HTML & CSS only
 
 🛠️ Technologies Used
 
-HTML5
-CSS3
-Flexbox
+HTML5,
+CSS3,
+Flexbox,
 CSS Grid
 
 🎯 Purpose of the Project
@@ -27,7 +27,7 @@ Improve UI cloning skills
 Learn Flexbox and Grid
 Understand real-world webpage structure
 
-##💡 Future Improvements
+💡 Future Improvements
 
 Add JavaScript functionality
 Implement responsive design for mobile devices
